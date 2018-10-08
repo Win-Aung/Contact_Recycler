@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="groups">
+
+        <item>Family</item>
+        <item>Friend</item>
+        <item>Schools</item>
+        <item>Work</item>
+    </array>
+</resources>

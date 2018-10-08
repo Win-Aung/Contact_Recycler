@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyContact</string>
+    <string name="dname">Aung Aung</string>
+    <string name="dGroup">Firend</string>
+    <string name="dPhone">09692229851</string>
+    <string name="dEmail">aungaung@gmail.com</string>
+    <string name="TitleAddView">AddContact</string>
+    <string name="lbName">Enter Name</string>
+    <string name="lbPhone">Phone</string>
+    <string name="lbEmail">Enter Email</string>
+    <string name="btnAdd">Add Contact</string>
+</resources>
